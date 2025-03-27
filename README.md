@@ -1,6 +1,6 @@
 ## Hi, I'm Pablo 👋
 
-🧠 Computer Science student in Universidad de La Rioja</br><br>📱 Mobile App Teacher for kids who learn to make their own mobile videogame</br><br>🚀 Interested in many fields: <br>&emsp; - FrontEnd<br>&emsp;  - BackEnd<br>&emsp;  - Mobile Apps<br>&emsp;  - Cibersecurity<br>&emsp;  - Videogame Development</br><br>⚡Active, curious and resilient</br>
+🧠 Computer Science student in Universidad de La Rioja</br><br>📱 Mobile App Teacher for kids who learn to make their own mobile videogame</br><br>🚀 Interested in many fields: <br>&emsp; - FrontEnd<br>&emsp;  - BackEnd<br>&emsp;  - Mobile Apps<br>&emsp;  - Cibersecurity<br>&emsp;  - Videogame Development</br><br>⚡Active, curious and resilient
 
 
 ## 🌐 Socials:
