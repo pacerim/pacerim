@@ -32,7 +32,7 @@
 
 <html>
   <body>
-    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4566079" style='border:none;'></iframe>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/pacerim.png" alt="Your Image Badge" />
   </body>
 </html>
 
