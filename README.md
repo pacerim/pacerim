@@ -30,4 +30,10 @@
 
 ![](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4566079)
 
+<html>
+  <body>
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4566079" style='border:none;'></iframe>
+  </body>
+</html>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
