@@ -28,6 +28,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pacerim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4566079)]
+![](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4566079)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
