@@ -32,7 +32,10 @@
 
 <html>
   <body>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/pacerim.png" href="https://tryhackme.com/p/pacerim" alt="Pacerim TryHackMe Badge" />
+    ### TRY HACK ME PROFILE
+    <a href="https://tryhackme.com/p/pacerim">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/pacerim.png"  alt="Pacerim TryHackMe Badge" />
+    </a>
   </body>
 </html>
 
